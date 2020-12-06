@@ -1,0 +1,1 @@
+# Nothing - return statement called before puts method.
