@@ -1,0 +1,1 @@
+# You must have an '&' to pass a block as a parameter.
